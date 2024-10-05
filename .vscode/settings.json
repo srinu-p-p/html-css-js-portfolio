@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "git.enabled": true,
+    "search.useGlobalIgnoreFiles": false,
+    "git.ignoreLegacyWarning": false
+}
